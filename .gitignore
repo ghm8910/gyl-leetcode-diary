@@ -1,11 +1,17 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/.gitignore
+
+.classpath
+.project
+.idea
+dependency-reduced-pom.xml
+.settings/
+target/
+
+lib/*
+run/*
+bin/*
+out/*
+*.iml
+.DS_Store
+logs
 .idea/gyl-leetcode.iml
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-java-test/java-test.iml
-out/
-python-test/python-test.iml
 venv/
