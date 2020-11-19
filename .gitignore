@@ -5,3 +5,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+java-test/java-test.iml
+out/
+python-test/python-test.iml
+venv/
